@@ -1,4 +1,4 @@
-# Terraform AWS VPC and Networking Setup
+# Terraform AWS VPC and Networking implementation
 
 This Terraform project provisions a complete AWS networking infrastructure including VPC, subnets, route tables,
 NAT gateways, security groups, and EC2 instances (including a bastion host).
